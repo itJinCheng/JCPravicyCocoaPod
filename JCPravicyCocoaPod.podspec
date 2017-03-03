@@ -6,7 +6,7 @@
 #  To see working Podspecs in the CocoaPods repo see https://github.com/CocoaPods/Specs/
 #
 
-PPod::Spec.new do |s|
+Pod::Spec.new do |s|
 
   s.name             = 'JCPravicyCocoaPod'
   s.version          = '0.0.1'
