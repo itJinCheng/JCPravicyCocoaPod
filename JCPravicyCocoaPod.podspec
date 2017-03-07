@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
 
   s.name             = 'JCPravicyCocoaPod'
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = '金城iOS项目的基础控件。'
   s.requires_arc = true
   s.description      = <<-DESC
